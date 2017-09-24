@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+knn_tuned_predictions.csv
+svm_tuned_predictions.csv
